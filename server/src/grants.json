@@ -1,12 +1,12 @@
 [
   {
-    "role": "admin",
+    "role": "superAdmin",
     "resource": "User",
     "action": "read:own",
     "attributes": "*"
   },
   {
-    "role": "superAdmin",
+    "role": "admin",
     "resource": "User",
     "action": "read:own",
     "attributes": "*"
